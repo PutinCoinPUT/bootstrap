@@ -1,5 +1,5 @@
 # bootstrap
-Up-to-Date Bootstrap for synching the node wallet
+<h2>Up-to-Date Bootstrap for synching the node wallet</h2>
 
 Assure yourself, that your node wallet has been totally closed ("exit") and is not running in the background. 
 
